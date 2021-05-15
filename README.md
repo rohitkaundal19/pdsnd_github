@@ -4,6 +4,9 @@
 ### Date created
 The Date of creation at Github is 15 May 21.
 
+### Date Updated 
+The documentation was updated on 15 May 21 at 1400 hrs
+
 ### Project Title
 Exploring US Bikeshare Data.
 
@@ -29,3 +32,4 @@ numpy
 
 ### Credits
 Udacity 
+Atom
