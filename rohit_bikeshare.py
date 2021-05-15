@@ -1,4 +1,5 @@
-# The project is coded by Rohit
+# The code was written by Rohit Kaundal on Atom Text Editor
+
 # Important points to consider
     # time.sleep() function is used to provide better readability during program execution
     #Various spaces and next line have been includes to have better readability
