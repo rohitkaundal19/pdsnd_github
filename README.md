@@ -1,9 +1,8 @@
-.>**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 ###The project is submitted by Rohit Kaundal
 ### Date created
 The Date of creation at Github is 15 May 21.
 
-### Date Updated 
+### Date Updated
 The documentation was updated on 15 May 21 at 1400 hrs
 The documentation edited by Refactoring Branch
 
@@ -32,5 +31,5 @@ pandas
 numpy
 
 ### Credits
-Udacity 
+Udacity
 Atom
